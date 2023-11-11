@@ -1,0 +1,69 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore environment variables file
+.env
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directories
+lib-cov
+node_modules
+jspm_packages
+
+# Testing
+coverage
+
+# Production
+build
+dist
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Compiled binary addons (replace `x86` with `x64` if you are working on 64-bit machines)
+build/Release
+
+
+# Ignore user-specific files
+*.iml
+*.DS_Store
+*.sublime*
+*.suo
+*.user
+*.userosscache
+*.pid
+*.log
+*.log.*
+*.diff
+*.rej
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.pid
+*.seed
+*.db
+*.sqlite
+*.sqlite3
+*.pdb
+*.opendb
+*.VC.db

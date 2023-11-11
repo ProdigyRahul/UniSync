@@ -1,4 +1,4 @@
-# UniSync: Revolutionizing Collaborative University Projects 🚀
+# UniSync: Revolutionizing Collaborative University Materials 🚀
 
 Hello GitHub Community! 👋
 
